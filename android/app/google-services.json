@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "976262537620",
+    "project_id": "safealert-4f9bd",
+    "storage_bucket": "safealert-4f9bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976262537620:android:780342675ff609d5566f81",
+        "android_client_info": {
+          "package_name": "com.example.safe_alert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJPNC6-3x16Bu3s0q-wA2pgXZFdnFqeTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
